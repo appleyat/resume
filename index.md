@@ -1,5 +1,6 @@
 ---
 permalink: index.html
+theme: jekyll-theme-slate
 ---
 
 # Timothy Appleyard
