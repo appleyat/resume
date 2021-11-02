@@ -103,7 +103,7 @@ Follow the below instruction to setup Github Pages
 15. Press **Commit changes**.
 
 Here is a gif of the process
-![A gif showing how to make a static website using Github](gifs/First_Gif.gif)
+![A gif showing how to make a static website using Github](https://github.com/appleyat/resume/blob/main/gifs/First%20Gif.gif)
 
 Result: Your website is now hosted on Github pages with a proper theme. You can now access it at `https://username.github.io/repositoryName/` replacing username and repository name with your username and repositories name.
 
