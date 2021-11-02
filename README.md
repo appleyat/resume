@@ -24,7 +24,7 @@ The main principles I will be demonstrating are as follows,
 
 I will be showcasing consistency by keeping the formatting of these instructions as consistent as possible. Consistency is important as it allows a reader to know what to expect and properly follow along a reading without frustration.
 
-#### Format a Resume in Markdown to be hosted online
+### Format a Resume in Markdown to be hosted online
 
 Reasons for using Markdown include,
 
@@ -52,7 +52,7 @@ A Markdown tutorial and resume guide can both be found in the More Resources sec
 
 Result: You will have a resume formatted in Markdown that is properly setup to host on a static website.
 
-#### Create a GitHub Repository
+### Create a GitHub Repository
 
 Github is a form of Distributed Version Control (DVC). DVC is used so a student can work offline and in groups. A DVC can store files online so you can access them from anywhere.
 
@@ -66,7 +66,7 @@ Follow the below instructions to setup a Github repository.
 
 Result: You have a new Github repository open with nothing in it.
 
-#### Uploading a Resume to Github
+### Uploading a Resume to Github
 
 1. Open Github Desktop.
 2. Press the button labeled with the name of your new repository.
@@ -82,7 +82,7 @@ Result: You have a new Github repository open with nothing in it.
 
 Result: Your resume is stored in your online Github repository.
 
-#### Creating a Static Website using Github Pages
+### Creating a Static Website using Github Pages
 
 Github allows for the hosting of a static website for free through Github Pages. A student may choose to host a static website for a resume rather than using a PDF. The reason for this is it allows the resume to be updated seamlessly and not have interviewers looking at outdated PDFs.
 
