@@ -116,11 +116,14 @@ Result: Your website is now hosted on Github pages with a proper theme. You can 
 ## Authors and Acknowledgements
 
 * Gurtej Boparai
-
 * Yucong Nie
-
 * Jordan Unger
-
 * Dean Pistorius
+* Timothy Appleyard
 
 ## FAQs
+
+* Why is Markdown better than a word processor?
+  * Markdown is better than a word processor because it can be easily converted to HTML for hosting online and is free to use. Word on the other hand you have to pay large fees to use and is very clunky to convert to HTML for online hosting.
+* Why is my resume not showing up on my website?
+  * Make sure your resume is named index.md and that permalink: index.html is at the beginning. This tells Github Pages to convert that page to html and host it.
