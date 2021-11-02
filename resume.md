@@ -1,5 +1,6 @@
 ---
-permalink: index.html
+permalink: resume.html
+title: Timothy Appleyard Resume
 theme: jekyll-theme-slate
 ---
 
