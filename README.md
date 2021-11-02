@@ -42,8 +42,6 @@ A Markdown tutorial and resume guide can both be found in the More Resources sec
 
    ​	permalink: index.html
 
-   ​	title: "Your name" resume
-
    ​	theme:
 
    ​	\---
